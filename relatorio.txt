@@ -1,0 +1,39 @@
+avmedia.sh é um arquivo
+calc.sh é um arquivo
+contemword.sh é um arquivo
+contfiles.sh é um arquivo
+entrada.txt é um arquivo
+execsh.sh é um arquivo
+fat.sh é um arquivo
+fibonacci.txt é um arquivo
+fibo.sh é um arquivo
+filesentrada.sh é um arquivo
+gabarito.sh é um arquivo
+isexec.sh é um arquivo
+media.sh é um arquivo
+numeros.txt é um arquivo
+palavras.txt é um arquivo
+pares.sh é um arquivo
+relatar.sh é um arquivo
+relatorio.txt é um arquivo
+resultado.txt é um arquivo
+saida.txt é um arquivo
+sedstring.sh é um arquivo
+server.log é um arquivo
+tal.sh é um arquivo
+texto.txt é um arquivo
+todo.md é um arquivo
+valores.txt é um arquivo
+Total de arquivos regulares: 26
+Total de diretórios: 0
+Total de outros: 0
+Arquivos com extensão .txt:
+entrada.txt
+fibonacci.txt
+numeros.txt
+palavras.txt
+relatorio.txt
+resultado.txt
+saida.txt
+texto.txt
+valores.txt

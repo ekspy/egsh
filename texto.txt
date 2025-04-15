@@ -1,0 +1,5 @@
+Oi
+Bom dia
+Hello world
+Este é um texto bem longo para teste
+Outro texto médio aqui

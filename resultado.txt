@@ -1,0 +1,3 @@
+Aprendendo a programar em bash
+Nada de bash aqui
+Shell scripting com bash

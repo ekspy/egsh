@@ -1,0 +1,5 @@
+Aprendendo a programar em bash
+Este é um texto qualquer
+Bash é uma linguagem poderosa
+Nada de bash aqui
+Shell scripting com bash

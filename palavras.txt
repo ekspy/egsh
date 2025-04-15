@@ -1,0 +1,5 @@
+Este é um teste simples.
+Outro linha com mais palavras, aqui!
+Texto, com pontuação... e espaços extras.
+Vamos contar todas essas palavras agora.
+Mais uma linha para alcançar o limite.
